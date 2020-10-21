@@ -271,6 +271,7 @@
               <exclude>.vscode/settings.json</exclude>
               <exclude>distribution/.project</exclude>
               <exclude>distribution/.settings/**</exclude>
+              <exclude>**/.factorypath</exclude>
             </excludes>
           </configuration>
         </plugin>
