@@ -22,3 +22,6 @@ target/
 .checkstyle
 .fbExcludeFilterFile
 dependency-reduced-pom.xml
+
+.factorypath
+.vscode
